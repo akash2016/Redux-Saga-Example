@@ -1,5 +1,5 @@
 # Redux-Saga-Example
-Implementing redux saga
+Implementing Redux saga
 
  To install dependencies:
 $ npm install
